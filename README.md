@@ -1,6 +1,23 @@
-# Fink692
+<div align="center">
 
-Quantitative finance and applied machine-learning projects focused on derivatives, risk, market microstructure, portfolio construction, and simulation-heavy research software.
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Animated ASCII portrait of Charles Backman" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Charles Backman's experience, stack, and highlights" /></td>
+</tr>
+</table>
+
+## Charles Backman
+
+**Quantitative Finance · Applied Machine Learning · Research Systems**
+
+[![Quant Systems Lab](https://img.shields.io/badge/Featured-Quant_Systems_Lab-0d1117?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Fink692/quant-systems-lab)
+
+<br>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Fink692 GitHub contribution graph" />
+
+</div>
 
 ## Featured Project
 
