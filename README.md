@@ -35,6 +35,21 @@ Highlights:
 - Interview prep: [model and system-design talking points](https://github.com/Fink692/quant-systems-lab/blob/main/docs/INTERVIEW_PREP.md).
 - Real-data-compatible workflow: [wide price-panel CSV analysis](https://github.com/Fink692/quant-systems-lab/blob/main/docs/REAL_DATA_WORKFLOW.md).
 
+## Selected Projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| [UFC Predictor](https://github.com/Fink692/ufc-predictor) | Leakage-safe fight modeling, calibrated probabilities, odds comparison, and reproducible reports. |
+| [Clearcoat Quote Studio](https://github.com/Fink692/clearcoat-quote-studio) | A photo-to-quote workflow with evidence-aware pricing and human-review routing. |
+| [AgriStress](https://github.com/Fink692/AgriStress) | Multispectral crop-stress segmentation with uncertainty exports and reproducible experiment manifests. |
+| [Project Hope](https://github.com/Fink692/project-hope) | A charity operations workspace built around connected records, human approval, and data ownership. |
+
+## How I Build
+
+- **Evidence before confidence** — make assumptions, provenance, and uncertainty visible.
+- **Reproducible by default** — prefer deterministic workflows, tests, and inspectable artifacts.
+- **Useful for real operators** — turn research ideas into tools that reduce friction for the people doing the work.
+
 ## Technical Focus
 
 - Python quantitative research systems
