@@ -41,7 +41,7 @@ Highlights:
 | --- | --- |
 | [UFC Predictor](https://github.com/Fink692/ufc-predictor) | Leakage-safe fight modeling, calibrated probabilities, odds comparison, and reproducible reports. |
 | [Clearcoat Quote Studio](https://github.com/Fink692/clearcoat-quote-studio) | A photo-to-quote workflow with evidence-aware pricing and human-review routing. |
-| [AgriStress](https://github.com/Fink692/AgriStress) | Multispectral crop-stress segmentation with uncertainty exports and reproducible experiment manifests. |
+| [Canadian Rental Data Sources](https://github.com/Fink692/canadian-rental-data-sources) | Source-dated catalog of official Canadian address and renter-research datasets, plus a practical pre-lease checklist; maintained alongside BlockScore. |
 | [Project Hope](https://github.com/Fink692/project-hope) | A charity operations workspace built around connected records, human approval, and data ownership. |
 
 ## How I Build
