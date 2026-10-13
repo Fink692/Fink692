@@ -21,6 +21,7 @@ An offline relationship-memory app for remembering people and conversations. Inc
 
 - **Implementation:** Expo, React Native, TypeScript, Swift/Objective-C bridges, an optional LiteRT-LM model, and a macOS wrapper.
 - **Status:** native and cross-platform project with screenshots and release documentation; store availability is not asserted here.
+- **Maintenance:** [Dependency status](https://github.com/Fink692/context-memory-aid/blob/main/docs/DEPENDENCY_STATUS.md). Application and iOS diagnostics pass; the audit gate retains unresolved upstream advisories.
 - **Evidence:** [source](https://github.com/Fink692/context-memory-aid), [product tour](https://github.com/Fink692/context-memory-aid#product-tour), [privacy model](https://github.com/Fink692/context-memory-aid/blob/main/PRIVACY.md), [deployment](https://github.com/Fink692/context-memory-aid/blob/main/docs/DEPLOYMENT.md).
 - **Decision:** relationship data stays local; generated records remain editable and require review before saving.
 
@@ -136,7 +137,7 @@ A public directory of official Canadian housing, municipal, tenancy, and ownersh
 | Project | Scope | Status and access |
 | --- | --- | --- |
 | **Hookwatch** | Observes what changes during a software install, including lifecycle hooks, folder-open tasks, Git hooks, and MCP configuration. | Developer-tool alpha documented in my October project showcase; no public source link verified. |
-| **AccessPath CI** | Playwright flow replay with axe-core findings, screenshots, focus evidence, and traces. | Development branch; [source and setup](https://github.com/Fink692/accesspath-ci/tree/agent/accesspath-ci). Not released. |
+| **AccessPath CI** | Playwright flow replay with axe-core findings, screenshots, focus evidence, and traces. | Prototype on the default branch; [source and setup](https://github.com/Fink692/accesspath-ci). Build, five unit tests, and dependency audit passed; no packaged release. |
 | **BOREAL-E** | Preliminary electric-aircraft engineering models, requirements traceability, thermal/energy screening, Monte Carlo studies, and CAD work. | Private digital prototype. No physical aircraft performance is verified; the current program is paused. |
 | **Minecraft AutoBuild** | Java/Fabric automation around selected schematics, preflight checks, and a modified Baritone controller. | Private experimental development build. Controlled gameplay tests are documented; current installable packaging remains blocked. |
 
