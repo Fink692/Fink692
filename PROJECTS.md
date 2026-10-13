@@ -28,6 +28,8 @@ An offline relationship-memory app for remembering people and conversations. Inc
 
 A native SwiftUI iOS app for address-level housing and trip research across Canada. Includes confirmed-address search, source-labelled reports, saved homes, comparisons, and report-grounded questions.
 
+As founder and product lead, I lead a five-person team and direct product strategy, data sourcing, partnerships, team coordination, and pre-launch execution.
+
 - **Status:** in development; source is private. Production evidence sources require explicit approval and coverage records.
 - **Evidence:** [Canadian Rental Data Sources](https://github.com/Fink692/canadian-rental-data-sources) is the public companion.
 - **Decision:** national baseline coverage and richer Toronto data are presented separately. Missing data remains visible; nearby or regional context is not presented as proof about a unit.
@@ -65,6 +67,8 @@ A vehicle-photo quoting workspace for auto detailing. Browser checks assess imag
 ### AgriStress
 
 A multispectral semantic-segmentation research platform for agricultural stress, weeds, and field anomalies. Dataset adapters produce provenance-aware manifests; training and evaluation retain field/source boundaries. Prediction exports masks, uncertainty, and GeoJSON regions for review.
+
+As co-founder and lead developer, I work with University of Manitoba Plant Sciences researchers to incorporate longitudinal wheat and canola drone imagery. That collaboration is ongoing; it does not establish completed external validation.
 
 - **Implementation:** Python, NumPy, optional PyTorch training, geospatial exports, and local dashboards.
 - **Status:** functional research workflows; code is private. External farm, crop, season, and sensor validation remains incomplete.
@@ -141,7 +145,7 @@ A public directory of official Canadian housing, municipal, tenancy, and ownersh
 | Work | Scope | Status |
 | --- | --- | --- |
 | **Lake of the Woods Water Co.** | Ordering site with refill estimates, map-based route estimates, and lead capture. | Private Next.js repository. Temporary hosted SQLite storage is not durable production persistence. |
-| **Gear Garage** | Student uniform resale operation. | Business project; no public software repository verified. |
+| **Gear Garage** | Founded and ran a commission-based student uniform resale business in 2024–2025; managed sourcing, pricing, promotion, and customers. | Approximately 300 uniform items and 1,000+ followers. No public software repository verified. |
 | **Precision Auto Detailing** | Quoting software for a local detailing business. | Quoting software sold, as recorded in my October project showcase; no revenue total claimed here. |
 | **AutomataCo** | Business automation experiments, including an appointment-waitlist optimizer. | Earlier project work; no current repository or deployment verified. |
 | **Who Said It?** | Quote-guessing game concept with solo and streamer modes. | Earlier project plan; no current repository or deployment verified. |
@@ -152,3 +156,16 @@ A public directory of official Canadian housing, municipal, tenancy, and ownersh
 | **Story Maker test videos** | Local narration and caption-rendering experiments. | Private test artifacts. |
 
 Forked resource directories are third-party work, not original portfolio projects. Empty test repositories and the GitHub collaboration sandbox are omitted from the featured work.
+
+## Education and leadership
+
+- **Education:** St. John's-Ravenscourt, Winnipeg; Grade 12 honours student; expected graduation June 2027.
+- **Certification:** IBM SkillsBuild Artificial Intelligence Fundamentals.
+- **Recognition:** second place in an RRC Polytech business competition.
+- **SJR Chess Club:** co-founder and organizer; teach 40+ students and organize club activities.
+- **CanSkate and youth debate:** volunteer instructor; 200+ volunteer hours over three years, as recorded in my résumé.
+- **Debate:** national and provincial British Parliamentary competitions, with evidence-based cases and timed oral advocacy.
+- **Royal Lake of the Woods Yacht Club:** seasonal waterfront operations and member service in summers 2024–2025.
+- **Athletics:** hockey and ultimate team captain; track and field athlete; completed a 42.2 km marathon.
+
+The experience details above come from my current scholarship résumé. Project implementation and release status are documented separately in the linked repositories.
