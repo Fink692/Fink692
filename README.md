@@ -1,60 +1,35 @@
-<div align="center">
+# Charles Backman
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Animated ASCII portrait of Charles Backman" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Charles Backman's experience, stack, and highlights" /></td>
-</tr>
-</table>
+I build apps, AI tools, and research software. My work spans native mobile development, local AI, browser-agent tooling, and reproducible machine-learning experiments.
 
-## Charles Backman
+Based in Winnipeg, Canada. I also lead an AI club at St. John's-Ravenscourt, teaching students and teachers to turn ideas into working software.
 
-**Quantitative Finance · Applied Machine Learning · Research Systems**
+[Project catalog](PROJECTS.md) · [Writing](https://fink692.substack.com) · [Email](mailto:backman.charlie@gmail.com)
 
-[![Quant Systems Lab](https://img.shields.io/badge/Featured-Quant_Systems_Lab-0d1117?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Fink692/quant-systems-lab)
+## Selected work
 
-<br>
+| Project | What I built | Explore |
+| --- | --- | --- |
+| **Evidence Board** | A research workspace with source-linked claims, ten browser-agent tools, reviewable proposals, and undo. The public sample uses illustrative data. | [Code](https://github.com/Fink692/evidence-board) · [Demo](https://evidence-board-judging.fink692.chatgpt.site/?guest=1) · [Tool contracts](https://github.com/Fink692/evidence-board/blob/main/docs/webmcp-tools.md) |
+| **Context** | An offline relationship-memory app with reviewed imports, optional on-device AI, and native iOS bridges. | [Code](https://github.com/Fink692/context-memory-aid) · [Screenshots](https://github.com/Fink692/context-memory-aid#product-tour) · [Privacy](https://github.com/Fink692/context-memory-aid/blob/main/PRIVACY.md) |
+| **BlockScore** | A SwiftUI iOS app for comparing Canadian addresses using source-labelled reports, coverage controls, and grounded questions. In development; source code is private. | [Public data companion](https://github.com/Fink692/canadian-rental-data-sources) |
+| **Project Hope** | A charity operations platform with a desktop sample, contact migration, organization permissions, and local AI assistance. Real team use requires a hosted workspace. | [Code](https://github.com/Fink692/project-hope) · [Website and downloads](https://project-hope-charities.vercel.app) |
+| **WildGap** | A biodiversity survey tool using H3, GBIF, and weather data to identify observation gaps and plan field missions. | [Code](https://github.com/Fink692/wildgap) · [Demo](https://wildgap-habitat-2026.fink692.chatgpt.site) |
+| **Clearcoat Quote Studio** | A vehicle-photo quoting MVP with browser quality checks, deterministic pricing, and human-review routing. | [Code and screenshots](https://github.com/Fink692/clearcoat-quote-studio) |
 
-<img src="./contrib-heatmap.svg" width="860" alt="Fink692 GitHub contribution graph" />
+## Research
 
-</div>
+- **[AgriStress](PROJECTS.md#agristress):** multispectral segmentation, dataset provenance, field-aware splits, and reviewable crop-stress maps. Research prototype; code is private.
+- **[Quant Systems Lab](https://github.com/Fink692/quant-systems-lab):** chronological order-book replay and independently checked accounting. The published study processes **301,587 messages**; all five policies lose money on the sample. [Study](https://github.com/Fink692/quant-systems-lab/blob/main/reports/market_making_sample/study.md).
+- **[UFC Predictor](https://github.com/Fink692/ufc-predictor):** pre-fight features and probability evaluation. The recorded chronological benchmark reports **63.55% accuracy on 1,709 held-out fights**. This is a historical result, not live betting performance. [Results](https://github.com/Fink692/ufc-predictor/blob/main/docs/RESULTS.md).
 
-## Featured Project
+More work includes municipal-data tools, accessibility testing, adaptive-model research, engineering simulation, and business software. See the [full catalog](PROJECTS.md) for status and evidence.
 
-### [Quant Systems Lab](https://github.com/Fink692/quant-systems-lab)
+## How I work
 
-A tested Python quant-finance research platform covering stochastic-volatility options, queue-aware market making, risk-constrained RL trading, Barra-style factor risk, robust portfolio optimization, credit/default modeling, statistical arbitrage, volatility-surface arbitrage, and systemic-risk contagion.
+I use AI coding tools throughout development. I set the product direction, review changes, and test the result. I care about source provenance, useful interfaces, and making failure cases visible.
 
-[![Quant Systems Lab CI](https://github.com/Fink692/quant-systems-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/Fink692/quant-systems-lab/actions/workflows/ci.yml)
+**Languages:** Python, TypeScript, Swift, Java  
+**Tools:** React, React Native, Next.js, Django, FastAPI, NumPy, scikit-learn, PyTorch, Playwright, GitHub Actions
 
-Highlights:
-
-- 170 automated tests with GitHub Actions CI.
-- CLI workflows, generated Markdown reports, and reproducible SVG artifacts.
-- Case study: [queue-aware market making](https://github.com/Fink692/quant-systems-lab/blob/main/docs/CASE_STUDY_MARKET_MAKING.md).
-- Interview prep: [model and system-design talking points](https://github.com/Fink692/quant-systems-lab/blob/main/docs/INTERVIEW_PREP.md).
-- Real-data-compatible workflow: [wide price-panel CSV analysis](https://github.com/Fink692/quant-systems-lab/blob/main/docs/REAL_DATA_WORKFLOW.md).
-
-## Selected Projects
-
-| Project | What it demonstrates |
-| --- | --- |
-| [UFC Predictor](https://github.com/Fink692/ufc-predictor) | Leakage-safe fight modeling, calibrated probabilities, odds comparison, and reproducible reports. |
-| [Clearcoat Quote Studio](https://github.com/Fink692/clearcoat-quote-studio) | A photo-to-quote workflow with evidence-aware pricing and human-review routing. |
-| [Canadian Rental Data Sources](https://github.com/Fink692/canadian-rental-data-sources) | Source-dated catalog of official Canadian address and renter-research datasets, plus a practical pre-lease checklist; maintained alongside BlockScore. |
-| [Project Hope](https://github.com/Fink692/project-hope) | A charity operations workspace built around connected records, human approval, and data ownership. |
-
-## How I Build
-
-- **Evidence before confidence** — make assumptions, provenance, and uncertainty visible.
-- **Reproducible by default** — prefer deterministic workflows, tests, and inspectable artifacts.
-- **Useful for real operators** — turn research ideas into tools that reduce friction for the people doing the work.
-
-## Technical Focus
-
-- Python quantitative research systems
-- Options pricing and volatility modeling
-- Limit-order-book simulation and market making
-- Portfolio optimization and risk modeling
-- Credit/default modeling and systemic-risk networks
-- Reinforcement learning with drawdown and transaction-cost constraints
+_Last reviewed: 12 October 2026. Project links distinguish working samples, research, and unfinished releases._
