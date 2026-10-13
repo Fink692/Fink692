@@ -4,7 +4,7 @@ I build apps, AI tools, and research software. My work spans native mobile devel
 
 Based in Winnipeg, Canada. I also lead an AI club at St. John's-Ravenscourt, teaching students and teachers to turn ideas into working software.
 
-[Project catalog](PROJECTS.md) · [Writing](https://fink692.substack.com) · [Email](mailto:backman.charlie@gmail.com)
+[Résumé](resume/Charles_Backman_Resume.pdf) · [Project catalog](PROJECTS.md) · [Writing](https://fink692.substack.com) · [Email](mailto:backman.charlie@gmail.com)
 
 ## Selected work
 
